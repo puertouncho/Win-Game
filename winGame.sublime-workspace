@@ -1,0 +1,446 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"init",
+				"initY"
+			],
+			[
+				"b",
+				"bggradient"
+			],
+			[
+				"sc",
+				"scale"
+			],
+			[
+				"ini",
+				"iniY"
+			],
+			[
+				"scroll",
+				"scrollInc"
+			],
+			[
+				"pla",
+				"playerPos\tproperty"
+			],
+			[
+				"sp",
+				"speed\tproperty"
+			],
+			[
+				"s",
+				"sprite\tproperty"
+			],
+			[
+				"dra",
+				"drawCircle\tmethod"
+			],
+			[
+				"playerColli",
+				"playerCollisionDebug\tproperty"
+			],
+			[
+				"DE",
+				"DetectSingleSquareCollision\tmethod"
+			],
+			[
+				"Obs",
+				"Obstacle\tclass"
+			],
+			[
+				"on",
+				"onFrameChange\tproperty"
+			],
+			[
+				"to",
+				"totalFrames\tproperty"
+			],
+			[
+				"an",
+				"animationSpeed\tproperty"
+			],
+			[
+				"f",
+				"fromImages\tmethod"
+			],
+			[
+				"e",
+				"extras\tmodule"
+			],
+			[
+				"p",
+				"pivot\tproperty"
+			],
+			[
+				"add",
+				"addChild\tmethod"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"re",
+				"removeChild\tmethod"
+			],
+			[
+				"expo",
+				"exportData\tlocal var"
+			],
+			[
+				"obs",
+				"obstacleController"
+			],
+			[
+				"ti",
+				"ticks"
+			],
+			[
+				"Te",
+				"TestPlayer\tclass"
+			],
+			[
+				"Cre",
+				"CreateTypeBlock\tmethod"
+			],
+			[
+				"OBs",
+				"ObstacleController\tclass"
+			],
+			[
+				"Ene",
+				"EnemiesController\tclass"
+			],
+			[
+				"WE",
+				"WebGLRenderer\tclass"
+			],
+			[
+				"onres",
+				"onresize\tproperty"
+			],
+			[
+				"inn",
+				"innerWidth\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 2854,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Puertouncho/Documents/Win-Game"
+	],
+	"file_history":
+	[
+		"/C/Users/Puertouncho/Documents/AI Town/AI Town Project/namespace.ts",
+		"/C/Users/Puertouncho/Documents/Win-Game/server.js",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJ_Project/tsconfig.json",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJ_Project/js/ObstacleEditor.ts",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJ_Project/js/ObstacleController.ts",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJ_Project/js/Obstacle.ts",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJProject/js/background.js",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJ_Project/js/CollectObject.ts",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJProject/js/collectables.js",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJ_Project/js/EnemiesController.ts",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJ_Project/js/Enemy.ts",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJProject/namespace.js",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJ_Project/namespace.ts",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJProject/js/game.js",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJProject/js/player.js",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJProject/js/collectable-sections.js",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJ_Project/js/obstacleData.ts",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJProject/index.html",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJProject/js/Enemy.js",
+		"/C/Users/Puertouncho/Desktop/level_test_olaf.js",
+		"/C/Users/Puertouncho/AppData/Local/Temp/tmpF238.tmp.js",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJProject/js/obstacleData.js",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJProject/js/Obstacle.js",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJ_Project/js/game.ts",
+		"/C/Users/Puertouncho/Documents/GameJamProject/GGJ_Project/js/testPlayer.ts",
+		"/C/Users/Puertouncho/Documents/GameJamProject/build/index.html",
+		"/C/Users/Puertouncho/Documents/GameJamProject/TemporalProjectName/namespace.ts",
+		"/C/Users/Puertouncho/Documents/GameJamProject/TemporalProjectName/defs/pixi.js.d.ts",
+		"/C/Users/Puertouncho/Documents/GameJamProject/TemporalProjectName/js/game.ts",
+		"/C/Users/Puertouncho/Documents/GameJamProject/TemporalProjectName/tsconfig.json",
+		"/C/Users/Puertouncho/AppData/Roaming/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/C/Users/Puertouncho/Documents/GameJamProject/misc/shellt.bat",
+		"/C/Users/Puertouncho/Documents/HandMadeProject/handmade/code/build.bat",
+		"/C/Users/Puertouncho/Documents/HandMadeProject/handmade/code/win32_handmade.cpp",
+		"/C/Users/Puertouncho/Documents/Web/admin/index.php",
+		"/C/Users/Puertouncho/Documents/HandMadeProject/handmade/misc/sublime.bat",
+		"/C/Users/Puertouncho/Documents/Web/admin/update_days.php",
+		"/C/Users/Puertouncho/Documents/Web/admin/mysql_connect.php",
+		"/C/Users/Puertouncho/Documents/HandMadeProject/handmade/misc/shell.bat",
+		"/C/Users/Puertouncho/Documents/HandMadeProject/handmade/misc/customvars.bat",
+		"/C/Users/Puertouncho/Documents/HandMadeProject/code/win32_handmade.cpp",
+		"/C/Users/Puertouncho/Documents/HandMadeProject/misc/sublime.bat",
+		"/C/Users/Puertouncho/Documents/HandMadeProject/misc/shell.bat",
+		"/C/Users/Puertouncho/Downloads/shell.bat",
+		"/C/Users/Puertouncho/AppData/Roaming/Sublime Text 3/Packages/FileHeader/FileHeader.sublime-settings",
+		"/C/Users/Puertouncho/Documents/HandMadeProject/minsc/shell.bat",
+		"/C/Users/Puertouncho/AppData/Roaming/Sublime Text 3/Packages/User/FileHeader.sublime-settings"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"controller",
+			"scrollOffset",
+			"1610",
+			"tick",
+			"IResourceDictionary",
+			"resources",
+			"},\n",
+			"Password",
+			"$sql = \"SELECT * FROM admin_users WHERE user = '$user' AND password = '$pass' \";",
+			"HINSTANCE",
+			"hInstance",
+			"HINSTANCE"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								225,
+								1,
+								29,
+								9,
+								49,
+								50,
+								11,
+								195,
+								115,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Unity3D/UnityJavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "winGame.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 383.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

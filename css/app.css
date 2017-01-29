@@ -1,0 +1,15 @@
+﻿body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0px;
+    position: fixed;
+    background-color: black;
+}
+
+span {
+    font-style: italic;
+}
+
+#game_container {
+    position : relative;
+    background-color: #b3d4d6;
+}
